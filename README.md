@@ -15,7 +15,7 @@ https://www.krummer-kondensatoren.de/wp-content/uploads/2014/03/303EC.pdf
 ----  
 
 ### DCF-6:  
-(6A max)  
+(6A cont. / 10A peak [short-time])    
 Highest performance up to 2.2A (500W). Good values are also achieved up to 4.5A (1000W) if the DC voltage in the mains is not expected to be too high.  
   
 This filter is therefore sufficient for most audio applications, e.g. for several small consumers such as preamplifiers, phono preamplifiers, CD players, music servers, record players, etc. Or just one or two power amplifiers.  
@@ -27,7 +27,7 @@ Dimensions: LxWxH = 110x46x34mm
 ----
 
 ### DCF-10:  
-(16A max)  
+(10A cont. / 16A peak [short-time])  
 A DC filter without performance limit up to 10A (2300W). It effectively blocks DC voltages up to the power limit of 10A.  
   
 This is achieved by very high capacitance values, so that the diode voltage is not even reached during normal operation. The filter is also ideally suited to being installed centrally upstream of a larger circuit.  
