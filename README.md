@@ -1,14 +1,16 @@
 # Thel-DC-Filter
 Thel DC-Filter DCF-6 and DCF-10  
 
-DCF-6 and older DCF-10:
+DCF-6 and older DCF-10:  
 https://web.archive.org/web/20190630164557/http://thel-audioworld.de/module/Netzfilter/DC-Filter.htm  
 
-latest DCF-10:
+latest DCF-10:  
 https://web.archive.org/web/20210514091444/http://thel-audioworld.de/module/Netzfilter/DC-Filter.htm  
 
 used capacitors: Krummer 303EC ([krummer-kondensatoren.com](https://krummer-kondensatoren.com/))  
 https://www.krummer-kondensatoren.de/wp-content/uploads/2014/03/303EC.pdf  
+
+
 
 ----  
 
