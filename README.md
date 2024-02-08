@@ -36,4 +36,10 @@ Electrolytic capacitors 60000µ/20A(Ripple)/60C°
 Dimensions: LxWxH = 105x56x28mm  
 (height from lower edge of circuit board)  
 
+<img src="pics/DCF-10.jpg" >
+
+----
+
+
+
 
