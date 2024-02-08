@@ -19,7 +19,7 @@ https://www.krummer-kondensatoren.de/wp-content/uploads/2014/03/303EC.pdf
 Highest performance up to 2.2A (500W). Good values are also achieved up to 4.5A (1000W) if the DC voltage in the mains is not expected to be too high.  
   
 This filter is therefore sufficient for most audio applications, e.g. for several small consumers such as preamplifiers, phono preamplifiers, CD players, music servers, record players, etc. Or just one or two power amplifiers.  
-Electrolytic capacitors 18000µF/10A(Rippl)/60C°  
+Electrolytic capacitors 18000µF/10A(Ripple)/60C°  
   
 Dimensions: LxWxH = 110x46x34mm  
 (height from lower edge of circuit board)  
@@ -31,7 +31,7 @@ Dimensions: LxWxH = 110x46x34mm
 A DC filter without performance limit up to 10A (2300W). It effectively blocks DC voltages up to the power limit of 10A.  
   
 This is achieved by very high capacitance values, so that the diode voltage is not even reached during normal operation. The filter is also ideally suited to being installed centrally upstream of a larger circuit.  
-Electrolytic capacitors 60000µ/20A(Rippl)/60C°  
+Electrolytic capacitors 60000µ/20A(Ripple)/60C°  
 
 Dimensions: LxWxH = 105x56x28mm  
 (height from lower edge of circuit board)  
